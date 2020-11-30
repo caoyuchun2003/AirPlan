@@ -7,8 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "QDCommonViewController.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : QDCommonViewController
 
 
 @end
